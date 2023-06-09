@@ -60,9 +60,10 @@ button{
 
 
 @media only screen and (max-width: 240px){
-  div.button-counter{
+  .button-counter{
     display: flex;
     flex-direction: column;
     justify-content: center;
+
   }
 }
